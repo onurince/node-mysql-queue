@@ -1,0 +1,15 @@
+{
+  "name": "mysql-queue",
+  "version": "1.0.0",
+  "description": "Lightweight MySQL Messaging Queue for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["message", "mysql", "mq", "queue"],
+  "author": "Onur Ince",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "~2.0.2"
+  }
+}
